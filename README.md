@@ -1,11 +1,6 @@
 # 💫 About Me:
 
-Hi, I'm Saad!  
-💻 I work mostly with the **MERN stack** (MongoDB, Express.js, React, Node.js).  
-🚀 I enjoy building interactive UIs, solving problems, and deploying projects to the cloud.  
-📚 Always learning — currently diving deeper into **TypeScript** and advanced **Next.js**.  
-🔧 Tools I use: VS Code, Git, Vercel, DigitalOcean, MongoDB Atlas, Postman.
-
+MERN Stack Developer :)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saad.hn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saadhussain04) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saad.hn) 
