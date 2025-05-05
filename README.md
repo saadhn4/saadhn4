@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌱 Currently learning MERN stack!
+Hi, I'm Saad!  
+💻 I work mostly with the **MERN stack** (MongoDB, Express.js, React, Node.js).  
+🚀 I enjoy building interactive UIs, solving problems, and deploying projects to the cloud.  
+📚 Always learning — currently diving deeper into **TypeScript** and advanced **Next.js**.  
+🔧 Tools I use: VS Code, Git, Vercel, DigitalOcean, MongoDB Atlas, Postman.
 
 
 ## 🌐 Socials:
