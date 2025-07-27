@@ -1,67 +1,49 @@
-# 👋 Hi, I'm Saad Hussain
-
-### 💻 Full-Stack Web Developer | 🧑‍💼 Freelancer | 🚀 Building Modern Web Apps
-
-I'm a passionate full-stack developer focused on creating robust, scalable, and responsive web applications. From sleek frontends to efficient backends, I love turning ideas into real, usable products.
-
----
-
-## 🚀 Tech Stack
-
-### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🛠️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📌 Projects
-
-### 🍽️ Full Stack Restaurant Review App
-An end-to-end MERN stack app where users can register, login, post restaurant reviews with ratings and images.
-
-### 🐦 Mini Twitter Clone
-A lightweight Twitter-style social app with user tweets, likes, and real-time updates.
-
-### 🔍 GitHub Finder
-A React + GitHub API project to search GitHub users and see their profiles and repositories.
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi 👋, I'm Saad Hussain</h1>
+<h3 align="center">Full Stack Web Developer | Freelancer | JavaScript Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadhn4&show_icons=true&theme=react" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhn4&layout=compact&theme=react" height="180" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Freelancer+from+India" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📈 Visitor Counter
+### 👨‍💻 About Me
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=saadhussain04&label=Profile+Views&color=0e75b6&style=flat)
-
----
-
-## 📬 Let's Connect
-
-- 📧 **Email:** [saadcfi4@gmail.com](mailto:saadcfi4@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/saadhussain04](https://www.linkedin.com/in/saadhussain04)
+- 🔭 I’m working on **a Restaurant Review MERN App**
+- 🌱 Currently learning **TypeScript with React, Zustand, and Prisma**
+- 🛠️ Built: **Full Stack Restaurant Review**, **Mini Twitter Clone**, **GitHub Finder App**
+- 📫 Reach me at **saadcfi4@gmail.com**
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadhn4&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhn4&layout=compact&theme=radical" height="180" />
+</p>
+
+---
+
+### 📈 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadhn4&label=Profile+Views&color=brightgreen&style=flat" alt="saadhn4" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:saadcfi4@gmail.com"><img src="https://img.shields.io/badge/Gmail-saadcfi4%40gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/saadhussain04"><img src="https://img.shields.io/badge/LinkedIn-saadhussain04-blue?style=flat-square&logo=linkedin" /></a>
+</p>
