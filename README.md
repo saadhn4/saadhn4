@@ -2,14 +2,14 @@
 <h3 align="center">Full Stack Web Developer | Freelancer | JavaScript Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Freelancer+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Freelancer+from+U.A.E" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m working on **a Restaurant Review MERN App**
+- 🔭 I’m working on **mastering Front-End Development **
 - 🌱 Currently learning **TypeScript with React, Zustand, and Prisma**
 - 🛠️ Built: **Full Stack Restaurant Review**, **Mini Twitter Clone**, **GitHub Finder App**
 - 📫 Reach me at **saadcfi4@gmail.com**
