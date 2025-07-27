@@ -45,8 +45,8 @@ A React + GitHub API project to search GitHub users and see their profiles and r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadhussain04&show_icons=true&theme=react" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhussain04&layout=compact&theme=react" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saadhn4&show_icons=true&theme=react" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhn4&layout=compact&theme=react" height="180" />
 </p>
 
 ---
