@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m working on **mastering Front-End Development **
+- 🔭 I’m working on **mastering Front-End Development**
 - 🌱 Currently learning **TypeScript with React, Zustand, and Prisma**
 - 🛠️ Built: **Full Stack Restaurant Review**, **Mini Twitter Clone**, **GitHub Finder App**
 - 📫 Reach me at **saadcfi4@gmail.com**
