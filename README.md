@@ -58,8 +58,8 @@
 🔹 [🔗 GitHub Repo](https://github.com/saadhn4/github-finder)
 
 ### 🍽 MERN Food Review App  
-🔹 **Tech Stack:** MongoDB, Express.js, React, Node.js, TailwindCSS, Cloudinary  
-🔹 **Description:** Restaurant reviews with images, ratings, and user authentication.   
+🔹 **Tech Stack:** MongoDB, Express.js, React, Node.js, TailwindCSS
+🔹 **Description:** Restaurant reviews with images and user authentication.   
 🔹 [🔗 GitHub Repo](https://github.com/saadhn4/capstone-fr)
 
 ### 🐦 Frontend Twitter Clone  
