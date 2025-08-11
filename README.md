@@ -29,10 +29,10 @@
 
 ### 📌 Mini Twitter Clone
 > 🐦 Mini social platform for posting disappearing tweets.  
-> ⚡ Developed using **React, TailwindCss**.
+> ⚡ Developed using **React, TailwindCSS**.
 
 ### 📌 GitHub Finder App
-> 🔍 Search and view GitHub user profiles & repos instantly.  
+> 🔍 Search and view GitHub user profiles instantly.  
 > 💡 Built with **React + GitHub API**.
 
 ---
