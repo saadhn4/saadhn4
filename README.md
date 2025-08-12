@@ -43,7 +43,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=saadhn4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhn4&theme=tokyonight&layout=compact&hide_border=true" width="45%" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=saadhn4&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  ## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadhn4&theme=tokyo-night&hide_border=true" />
+</p>
 </p>
 
 ---
